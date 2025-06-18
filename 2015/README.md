@@ -6,4 +6,4 @@
 
 3. [Hierarchical Ranking of Dominance] **Overlapped-Triangle Analysis with Hierarchical Ranking of Dominance**, ICDAR 2015 [[paper](https://ieeexplore.ieee.org/abstract/document/7333870/)] :x:
 
-4. [Solid Geometric Object Reconstruction] **Solid Geometric Object Reconstruction from Single Line Drawing Image**, GRAPP 2015 [[paper] https://www.scitepress.org/PublishedPapers/2015/52612/)] :x:
+4. [Solid Geometric Object Reconstruction] **Solid Geometric Object Reconstruction from Single Line Drawing Image**, GRAPP 2015 [[paper](https://www.scitepress.org/PublishedPapers/2015/52612/)] :x:
