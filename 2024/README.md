@@ -10,7 +10,7 @@
 
 5. \[E-GPS] **E-GPS: Explainable Geometry Problem Solving via Top-Down Solver and Bottom-Up Generator**, CVPR 2024 \[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_E-GPS_Explainable_Geometry_Problem_Solving_via_Top-Down_Solver_and_Bottom-Up_CVPR_2024_paper.html)]
 
-6. \[Multi-Agent Framework/Euclidea] **Beyond Lines and Circles Unveiling the Geometric Reasoning Gap in Large Language Models**, Findings of EMNLP 2024 \[[paper](https://aclanthology.org/2024.findings-emnlp.360/)]
+6. \[Multi-Agent Framework/Euclidea] **Beyond Lines and Circles Unveiling the Geometric Reasoning Gap in Large Language Models**, Findings of EMNLP 2024 \[[paper](https://aclanthology.org/2024.findings-emnlp.360/)] :small_red_triangle:
 
 7. \[FGeo-TP] **FGeo-TP: A Language Model-Enhanced Solver for Geometry Problems**, Symmetry 2024 \[[paper](https://www.mdpi.com/2073-8994/16/4/421)]
 
@@ -36,7 +36,7 @@
 
 18. \[DualGeoSolver] **Learning to Solve Geometry Problems via Simulating Human Dual-Reasoning Process**, IJCAI 2024 \[[paper](https://www.ijcai.org/proceedings/2024/0725.pdf)]
 
-19. \[Autoformalization/LeanEuclid] **Autoformalizing Euclidean Geometry**, ICML 2024 \[[paper](https://dl.acm.org/doi/abs/10.5555/3692070.3693567)]
+19. \[Autoformalization/LeanEuclid] **Autoformalizing Euclidean Geometry**, ICML 2024 \[[paper](https://dl.acm.org/doi/abs/10.5555/3692070.3693567)] :small_red_triangle:
 
 20. \[GeoEval] **GeoEval: Benchmark for Evaluating LLMs and Multi-Modal Models on Geometry Problem-Solving**, Findings of ACL 2024 \[[paper](https://aclanthology.org/2024.findings-acl.73/)]
 

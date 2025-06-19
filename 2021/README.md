@@ -8,15 +8,15 @@
 
 4. [Arsenal] **Semantic parsing of geometry statements using supervised machine learning on Synthetic Data**, NatFoM 2021 CICM Workshop [[paper](https://hal.science/hal-03327994/document)]
 
-5. [Geometric Construction Problem/Mask R-CNN] **Learning to Solve Geometric Construction Problems from Images**, CICM 2021 [[paper](https://link.springer.com/chapter/10.1007/978-3-030-81097-9_14)]
+5. [Geometric Construction Problem/Mask R-CNN] **Learning to Solve Geometric Construction Problems from Images**, CICM 2021 [[paper](https://link.springer.com/chapter/10.1007/978-3-030-81097-9_14)] :small_red_triangle:
 
-6. [Image Generation for Proofs] **Automated Generation of Illustrations for Synthetic Geometry Proofs**, ADG 2021 [[paper](https://arxiv.org/abs/2201.00540)] :x:
+6. [Image Generation for Proofs] **Automated Generation of Illustrations for Synthetic Geometry Proofs**, ADG 2021 [[paper](https://arxiv.org/abs/2201.00540)] :small_red_triangle: :x:
 
 7. [Solid Geometric Calculation Problems] **Solving Solid Geometric Calculation Problems in Text**, TALE 2021 [[paper](https://ieeexplore.ieee.org/abstract/document/9678751)] :x:
 
 8. [GeoGebra Discover] **Automated Discovery of Geometrical Theorems in GeoGebra**, ThEdu 2021 [[paper](https://arxiv.org/abs/2202.04627)] :x:
 
-9. [GMBL] **Automatically Building Diagrams for Olympiad Geometry Problems**, CADE 2021 [[paper](https://dl.acm.org/doi/abs/10.1007/978-3-030-79876-5_33)] :x:
+9. [GMBL] **Automatically Building Diagrams for Olympiad Geometry Problems**, CADE 2021 [[paper](https://dl.acm.org/doi/abs/10.1007/978-3-030-79876-5_33)] :small_red_triangle: :x:
 
 10. [Linguistic Processor] **Linguistic Processor Integration for Solving Planimetric Problems**, IJCINI 2021 [[paper](https://www.igi-global.com/article/linguistic-processor-integration-for-solving-planimetric-problems/274062)] :x:
 

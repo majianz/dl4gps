@@ -72,7 +72,7 @@
 
 36. \[GeoUni/Multitasks/Geo-MAGVIT/Geo-Reasoning-Adapter] **GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions**, arXiv:2504.10146 \[[paper](https://arxiv.org/pdf/2504.10146)]
 
-37. \[MagicGeo/MagicGeoBench] **MagicGeo: Training-Free Text-Guided Geometric Diagram Generation**, arXiv:2502.13855 \[[paper](https://arxiv.org/abs/2502.13855)]
+37. \[MagicGeo/MagicGeoBench] **MagicGeo: Training-Free Text-Guided Geometric Diagram Generation**, arXiv:2502.13855 \[[paper](https://arxiv.org/abs/2502.13855)] :small_red_triangle:
 
 38. \[MATHGLANCE/GeoPeP] **MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams**, arXiv:2503.20745 \[[paper](https://arxiv.org/abs/2503.20745)]
 

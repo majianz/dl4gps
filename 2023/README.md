@@ -1,6 +1,6 @@
 # 2023
 
-1. [EuclidNet] **EuclidNet: Deep Visual Reasoning for Constructible Problems in Geometry**, AIML 2023 [[paper](https://arxiv.org/abs/2301.13007)]
+1. [EuclidNet] **EuclidNet: Deep Visual Reasoning for Constructible Problems in Geometry**, AIML 2023 [[paper](https://arxiv.org/abs/2301.13007)] :small_red_triangle:
 
 2. [MCL] **Solving Geometry Problems via Feature Learning and Contrastive Learning of Multimodal Data**, CMES 2023 [[paper](https://openurl.ebsco.com/EPDB%3Agcd%3A9%3A20307273/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A161884174&crl=c&link_origin=scholar.google.com)]
 
@@ -22,7 +22,7 @@
 
 11. [FormalGeo/formalgeo7k] **FormalGeo: An Extensible Formalized Framework for Olympiad Geometric Problem Solving**, arXiv:2310.18021 [[paper](https://arxiv.org/abs/2310.18021)] :x:
 
-12. [Text-to-Diagram Generation] **A Precise Text-to-Diagram Generation Method for Elementary Geometry**, ICCWAMTIP 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10387090)]
+12. [Text-to-Diagram Generation] **A Precise Text-to-Diagram Generation Method for Elementary Geometry**, ICCWAMTIP 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10387090)] :small_red_triangle:
 
 13. [DenseNet-121] **The Geometric Neural Solution Combined with Text Diagram Parsing**, IEIR 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10391229)]
 
