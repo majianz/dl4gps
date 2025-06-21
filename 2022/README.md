@@ -30,9 +30,9 @@
 
 15. [BIG-bench] **Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models**, TMLR 2022 [[paper](https://iris.uniroma1.it/handle/11573/1724128)] :large_blue_circle:
 
-16. [MWPS Survey] **Deep Learning in Automatic Math Word Problem Solvers**, AI in Learning: Designing the Future 2022 [[article](https://library.oapen.org/bitstream/handle/20.500.12657/61269/978-3-031-09687-7.pdf?sequence=1#page=246)] :large_blue_circle: :x:
+16. [MWPS Survey2] **Deep Learning in Automatic Math Word Problem Solvers**, AI in Learning: Designing the Future 2022 [[article](https://library.oapen.org/bitstream/handle/20.500.12657/61269/978-3-031-09687-7.pdf?sequence=1#page=246)] :large_blue_circle:
 
-17. [Geometry Survey] **Evolution of Automated Deduction and Dynamic Constructions in Geometry**, Mathematics Education in the Age of Artificial Intelligence: How Artificial Intelligence can Serve Mathematical Human Learning 2022 [[article](https://link.springer.com/chapter/10.1007/978-3-030-86909-0_1)] :x:
+17. [ADG and DCG Survey] **Evolution of Automated Deduction and Dynamic Constructions in Geometry**, Mathematics Education in the Age of Artificial Intelligence: How Artificial Intelligence can Serve Mathematical Human Learning 2022 [[article](https://link.springer.com/chapter/10.1007/978-3-030-86909-0_1)] :x:
 
 18. [SVM for Analytic] **Supervised Learning Use to Acquire Knowledge from 2D Analytic Geometry Problems**, ACIIDS 2022 [[paper](https://link.springer.com/chapter/10.1007/978-981-19-8234-7_15)] :x:
 

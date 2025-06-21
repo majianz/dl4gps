@@ -160,3 +160,17 @@
 79. \[AIME24 Evaluation] **Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT?**, arXiv:2504.11741 \[[paper](https://arxiv.org/abs/2504.11741)] \:large\_blue\_circle:
 
 80. \[KPMATH] **Key-Point-Driven Data Synthesis with Its Enhancement on Mathematical Reasoning**, AAAI 2025 \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34593)] \:large\_blue\_circle:
+
+81. [MLLM4MATH] **A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges**, Findings of ACL 2025 [[paper](https://arxiv.org/abs/2412.11936)] :large_blue_circle:
+
+82. [Data for AI-driven Math Survey] **Decoding Math: A Review of Datasets Shaping AI-Driven Mathematical Reasoning**, JIM 2025 [[paper](https://www.tarupublications.com/doi/10.47974/JIM-2105)] :large_blue_circle:
+
+83. [VLLM Survey] **Visual Large Language Models for Generalized and Specialized Application**, arXiv:2501.02765 [[paper](https://arxiv.org/abs/2501.02765)] :large_blue_circle:
+
+84. [Reasoning LLM Survey] **From System 1 to System 2: A Survey of Reasoning Large Language Models**, arXiv:2502.17419 [[paper](https://arxiv.org/abs/2502.17419)] :large_blue_circle:
+
+85. [LLM Scientific Agent Survey] **Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents**, arXiv:2503.24047 [[paper](https://arxiv.org/abs/2503.24047)] :large_blue_circle:
+
+86. [Multimodal PGPS Survey] **Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey**, arXiv:2505.14340 [[paper](https://arxiv.org/abs/2505.14340)]
+
+87. [GPS LM Survey] **Towards Geometry Problem Solving in the Large Model Era: A Survey**, arXiv:2506.02690 [[paper](https://arxiv.org/abs/2506.02690)]

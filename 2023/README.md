@@ -40,7 +40,7 @@
 
 20. [Synchronized Highlighting in Text and Diagrams] **Visual Amplification of Geometry Problems: A Method for Synchronized Highlighting in Text and Diagrams**, IEIR 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10391250)]
 
-21. [Dynamic Geometry Software Survey] **Systematic literature review: Application of dynamic geometry software to improve mathematical problem-solving skills**, Mathline: Jurnal Matematika Dan Pendidikan Matematika 2023 [[paper](https://mathline.unwir.ac.id/index.php/Mathline/article/view/458)] :x:
+21. [Dynamic Geometry Software Survey] **Systematic literature review: Application of dynamic geometry software to improve mathematical problem-solving skills**, JMPM 2023 [[paper](https://mathline.unwir.ac.id/index.php/Mathline/article/view/458)] :x:
 
 22. [BBH] **Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them**, Findings of ACL 2023 [[paper](https://aclanthology.org/2023.findings-acl.824/)]
 
@@ -53,3 +53,13 @@
 26. [CR] **Cumulative Reasoning with Large Language Models**, arXiv:2308.04371 [[paper](https://arxiv.org/abs/2308.04371)] :large_blue_circle:
 
 27. [XoT] **Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts**, EMNLP 2023 [[paper](https://aclanthology.org/2023.emnlp-main.169/)] :large_blue_circle:
+
+28. [LLM for Education Survey] **Adapting Large Language Models for Education: Foundational Capabilities, Potentials, and Challenges**, arXiv:2401.08664 [[paper](https://arxiv.org/abs/2401.08664)] :large_blue_circle:
+
+29. [DL4MATH] **A Survey of Deep Learning for Mathematical Reasoning**, ACL 2023 [[paper](https://aclanthology.org/2023.acl-long.817/)] :large_blue_circle:
+
+30. [Dynamic Geometry Software Survey] **Systematic Literature Review: Application of Dynamic Geometry Software to Improve Mathematical Problem-Solving Skills**, Mathline: Jurnal Matematika Dan Pendidikan Matematika 2023 [[paper](https://mathline.unwir.ac.id/index.php/Mathline/article/view/458)] :x:
+
+31. [Reasoning with Foundation Models Survey] **A Survey of Reasoning with Foundation Models**, arXiv:2312.11562 [[paper](https://arxiv.org/abs/2312.11562)] :large_blue_circle:
+
+32. [Reasoning with Foundation Models Survey2] **A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook**, ACM Comput. Surv. 2023 [[paper](https://dl.acm.org/doi/full/10.1145/3729218)] :large_blue_circle:

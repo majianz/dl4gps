@@ -311,3 +311,15 @@
 108. \[Beyond Captioning]
      **Beyond Captioning: Task-Specific Prompting for Improved VLM Performance in Mathematical Reasoning**, arXiv:2410.05928
      \[[paper](https://arxiv.org/abs/2410.05928)]
+
+109. [Data for Math Proofs] **Data for Mathematical Copilots: Better Ways of Presenting Proofs for Machine Learning**, arXiv:2412.15184 [[paper](https://arxiv.org/abs/2412.15184)] :large_blue_circle:
+
+110. [LLM for Education Survey] **Adapting Large Language Models for Education: Foundational Capabilities, Potentials, and Challenges**, arXiv:2401.08664 [[paper](https://arxiv.org/abs/2401.08664)] :large_blue_circle:
+
+111. [LLM for Math Survey] **Large Language Models for Mathematical Reasoning: Progresses and Challenges**, EACL 2024 [[paper](https://aclanthology.org/2024.eacl-srw.17/)] :large_blue_circle:
+
+112. [DL4TP] **A Survey on Deep Learning for Theorem Proving**, COLM 2024 [[paper](https://openreview.net/forum?id=zlw6AHwukB)] :large_blue_circle:
+
+113. [Scientific LLM Survey] **A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery**, EMNLP 2024 [[paper](https://aclanthology.org/2024.emnlp-main.498/)] :large_blue_circle:
+
+114. [Auto MPS Survey] **Towards Robust Automated Math Problem Solving: A Survey of Statistical and Deep Learning Approaches**, Evol. Intell. 2024 [[paper](https://link.springer.com/article/10.1007/s12065-024-00957-0)] :large_blue_circle:
