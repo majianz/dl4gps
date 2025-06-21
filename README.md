@@ -3,6 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/majianz/gps-survey) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Survey](https://img.shields.io/badge/Survey-DL4GPS-blue)](https://github.com/majianz/gps-survey) 
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/majianz/dl4gps/main?logo=github&color=green)](https://github.com/majianz/dl4gps)
 
 This repository is the reading list on ***Deep Learning for Geometry Problem Solving (DL4GPS)***. You can also search for corresponding papers by year in folders named after the corresponding time. We will update the papers after a certain period of time. The current deadline for included papers is **April 2025**.
 
@@ -13,6 +14,10 @@ This repository is the reading list on ***Deep Learning for Geometry Problem Sol
 - :x: indicates no deep learning method is used.
 
 :bell: If you have any suggestions or notice something we missed, please don't hesitate to let us know. You can directly email Jianzhe Ma (majianzhe@ruc.edu.cn), or post an issue on this repo.
+
+## Table of Contents
+
+- [Related Surveys](#related-surveys)
 
 ## Related Surveys
 
