@@ -37,3 +37,5 @@
 18. [SVM for Analytic] **Supervised Learning Use to Acquire Knowledge from 2D Analytic Geometry Problems**, ACIIDS 2022 [[paper](https://link.springer.com/chapter/10.1007/978-981-19-8234-7_15)] :x:
 
 19. [NUMGLUE] **NUMGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks**, ACL 2022 [[paper](https://aclanthology.org/2022.acl-long.246/)] :large_blue_circle:
+
+20. [Lila] **Lila: A Unified Benchmark for Mathematical Reasoning**, EMNLP 2022 [[paper](https://aclanthology.org/2022.emnlp-main.392/)] :large_blue_circle:
