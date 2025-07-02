@@ -12,7 +12,7 @@
 
 6. [Image Generation for Proofs] **Automated Generation of Illustrations for Synthetic Geometry Proofs**, ADG 2021 [[paper](https://arxiv.org/abs/2201.00540)] :small_red_triangle: :x:
 
-7. [Solid Geometric Calculation Problems] **Solving Solid Geometric Calculation Problems in Text**, TALE 2021 [[paper](https://ieeexplore.ieee.org/abstract/document/9678751)] :x:
+7. [Solid Geometric Calculation Problems/Geometry3Dcalculation] **Solving Solid Geometric Calculation Problems in Text**, TALE 2021 [[paper](https://ieeexplore.ieee.org/abstract/document/9678751)] :x:
 
 8. [GeoGebra Discover] **Automated Discovery of Geometrical Theorems in GeoGebra**, ThEdu 2021 [[paper](https://arxiv.org/abs/2202.04627)] :x:
 
@@ -20,9 +20,9 @@
 
 10. [Linguistic Processor] **Linguistic Processor Integration for Solving Planimetric Problems**, IJCINI 2021 [[paper](https://www.igi-global.com/article/linguistic-processor-integration-for-solving-planimetric-problems/274062)] :x:
 
-11. [Diagramet Paradigm] **A Paradigm of Diagram Understanding in Problem Solving**, TALE 2021 [[paper](https://ieeexplore.ieee.org/abstract/document/9678637)] :x:
+11. [Diagramet Paradigm/Proving2H] **A Paradigm of Diagram Understanding in Problem Solving**, TALE 2021 [[paper](https://ieeexplore.ieee.org/abstract/document/9678637)] :x:
 
-12. [S2G/GeometryQA] **Sequence to general tree Knowledge-guided geometry word problem solving**, ACL-IJCNLP 2021 [[paper](https://aclanthology.org/2021.acl-short.121/)]
+12. [S2G/GeometryQA] **Sequence to General Tree Knowledge-Guided Geometry Word Problem Solving**, ACL-IJCNLP 2021 [[paper](https://aclanthology.org/2021.acl-short.121/)]
 
 13. [Adding Auxiliary Lines] **Proving Geometric Problem by Adding Auxiliary Lines-Based on Hypothetical Test**, AIET 2021 [[paper](https://link.springer.com/chapter/10.1007/978-981-16-7527-0_12)] :x:
 

@@ -10,4 +10,4 @@
 
 5. [Ontology-Controlled Geometric Solver] **Ontology-Controlled Geometric Solver**, RCAI 2020 [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59535-7_19)] :x:
 
-6. [2Dgeometricshapes] **2D geometric shapes dataset – For machine learning and pattern recognition**, Data in Brief 2020 [[paper](https://www.sciencedirect.com/science/article/pii/S2352340920309847)]
+6. [2Dgeometricshapes] **2D Geometric Shapes Dataset – For Machine Learning and Pattern Recognition**, Data in Brief 2020 [[paper](https://www.sciencedirect.com/science/article/pii/S2352340920309847)]

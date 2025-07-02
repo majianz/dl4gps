@@ -4,11 +4,11 @@
 
 2. [GeomVerse] **GeomVerse: A Systematic Evaluation of Large Models for Geometric Reasoning**, ICML 2024 AI4MATH Workshop [[paper](https://openreview.net/forum?id=1AUbiBrOF1)]
 
-3. [AlphaGeometry] **Solving Olympiad Geometry Without Human Demonstrations**, Nature 2024 [[paper](https://www.nature.com/articles/s41586-023-06747-5)]
+3. [AlphaGeometry/IMO-AG-30] **Solving Olympiad Geometry Without Human Demonstrations**, Nature 2024 [[paper](https://www.nature.com/articles/s41586-023-06747-5)]
 
 4. [GAPS] **GAPS: Geometry-Aware Problem Solver**, arXiv:2401.16287 [[paper](https://arxiv.org/abs/2401.16287)]
 
-5. [E-GPS] **E-GPS: Explainable Geometry Problem Solving via Top-Down Solver and Bottom-Up Generator**, CVPR 2024 [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_E-GPS_Explainable_Geometry_Problem_Solving_via_Top-Down_Solver_and_Bottom-Up_CVPR_2024_paper.html)]
+5. [E-GPS/aug-Geo3K] **E-GPS: Explainable Geometry Problem Solving via Top-Down Solver and Bottom-Up Generator**, CVPR 2024 [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_E-GPS_Explainable_Geometry_Problem_Solving_via_Top-Down_Solver_and_Bottom-Up_CVPR_2024_paper.html)]
 
 6. [Multi-Agent Framework/Euclidea] **Beyond Lines and Circles Unveiling the Geometric Reasoning Gap in Large Language Models**, Findings of EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.360/)] :small_red_triangle:
 
@@ -80,7 +80,7 @@
 
 40. [R\&E] **Reason-and-Execute Prompting: Enhancing Multi-Modal Large Language Models for Solving Geometry Questions**, MM 2024 [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681484)]
 
-41. [R-CoT] **R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models**, arXiv:2410.17885 [[paper](https://arxiv.org/abs/2410.17885)]
+41. [R-CoT/GeoMM] **R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models**, arXiv:2410.17885 [[paper](https://arxiv.org/abs/2410.17885)]
 
 42. [LLaVA-CoT] **LLaVA-o1: Let Vision Language Models Reason Step-by-Step**, arXiv:2411.10440 [[paper](https://arxiv.org/abs/2411.10440)] :large_blue_circle:
 
@@ -116,7 +116,7 @@
 
 58. [DrawEduMath] **DrawEduMath: Evaluating Vision Language Models with Expert-Annotated Students’ Hand-Drawn Math Images**, NeurIPS 2024 MATH-AI Workshop [[paper](https://openreview.net/forum?id=0vQYvcinij)] :large_blue_circle:
 
-59. [Number Line Problems] **An Enhanced Relation-Flow Algorithm for Solving Number Line Problems**, IEIR 2024 [[paper](https://ieeexplore.ieee.org/abstract/document/10960042)] :x:
+59. [Number Line Problems/NBLP] **An Enhanced Relation-Flow Algorithm for Solving Number Line Problems**, IEIR 2024 [[paper](https://ieeexplore.ieee.org/abstract/document/10960042)] :x:
 
 60. [VCAR/Describe-then-Reason] **Describe-then-Reason: Improving Multimodal Mathematical Reasoning Through Visual Comprehension Training**, arXiv:2404.14604 [[paper](https://arxiv.org/abs/2404.14604)] :large_blue_circle:
 
@@ -186,7 +186,7 @@
 
 93. [StrategyLLM] **Strategyllm: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving**, NeurIPS 2024 [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/af7cc9e2366b8f8837a6ef339810277a-Abstract-Conference.html)] :large_blue_circle:
 
-94. [BBA] **BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models**, Findings of ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.433/)]
+94. [BBA/G-MATH] **BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models**, Findings of ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.433/)]
 
 95. [HSP] **Hint-before-Solving Prompting: Guiding LLMs to Effectively Utilize Encoded Knowledge**, arXiv:2402.14310 [[paper](https://arxiv.org/abs/2402.14310)] :large_blue_circle:
 
@@ -227,3 +227,5 @@
 113. [Scientific LLM Survey] **A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery**, EMNLP 2024 [[paper](https://aclanthology.org/2024.emnlp-main.498/)] :large_blue_circle:
 
 114. [Auto MPS Survey] **Towards Robust Automated Math Problem Solving: A Survey of Statistical and Deep Learning Approaches**, Evol. Intell. 2024 [[paper](https://link.springer.com/article/10.1007/s12065-024-00957-0)] :large_blue_circle:
+
+115. [TongGeometry/MO-TG-225] **Proposing and Solving Olympiad Geometry with Guided Tree Search**, arXiv:2412.10673 [[paper](https://arxiv.org/abs/2412.10673)]
