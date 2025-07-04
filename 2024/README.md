@@ -106,7 +106,7 @@
 
 53. [Euclid/Geoperception] **Euclid: Supercharging Multimodal LLMs With Synthetic High-Fidelity Visual Descriptions**, arXiv:2412.08737 [[paper](https://arxiv.org/abs/2412.08737)]
 
-54. [AtomThink] **AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning**, arXiv:2411.11930 [[paper](https://arxiv.org/abs/2411.11930)] :large_blue_circle:
+54. [AtomThink/AMATH-SFT] **AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning**, arXiv:2411.11930 [[paper](https://arxiv.org/abs/2411.11930)] :large_blue_circle:
 
 55. [Mulberry] **Mulberry: Empowering MLLM With o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search**, arXiv:2412.18319 [[paper](https://arxiv.org/abs/2412.18319)] :large_blue_circle:
 
@@ -148,7 +148,7 @@
 
 74. [M3GIA] **M3GIA: A Cognition-Inspired Multilingual and Multimodal General Intelligence Ability Benchmark**, arXiv:2406.05343 [[paper](https://arxiv.org/abs/2406.05343)] :large_blue_circle:
 
-75. [ArMATH] **Mathematical Problem Solving in Arabic: Assessing Large Language Models**, Procedia Computer Science 2024 [[paper](https://www.sciencedirect.com/science/article/pii/S187705092402982X)] :large_blue_circle:
+75. [ArMATH] **Mathematical Problem Solving in Arabic: Assessing Large Language Models**, Procedia Comput. Sci. 2024 [[paper](https://www.sciencedirect.com/science/article/pii/S187705092402982X)] :large_blue_circle:
 
 76. [M3CoT] **M3CoT: A Novel Benchmark for Multi-Domain Multi-Step Multi-Modal Chain-of-Thought**, ACL 2024 [[paper](https://aclanthology.org/2024.acl-long.446/)] :large_blue_circle:
 
@@ -190,7 +190,7 @@
 
 95. [HSP] **Hint-before-Solving Prompting: Guiding LLMs to Effectively Utilize Encoded Knowledge**, arXiv:2402.14310 [[paper](https://arxiv.org/abs/2402.14310)] :large_blue_circle:
 
-96. [MathScale] **MathScale: Scaling Instruction Tuning for Mathematical Reasoning**, ICML 2024 [[paper](https://proceedings.mlr.press/v235/tang24k.html)] :large_blue_circle:
+96. [MathScale/MathScaleQA] **MathScale: Scaling Instruction Tuning for Mathematical Reasoning**, ICML 2024 [[paper](https://proceedings.mlr.press/v235/tang24k.html)] :large_blue_circle:
 
 97. [LECO] **Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**, COLM 2024 [[paper](https://openreview.net/forum?id=dcbNzhVVQj)] :large_blue_circle:
 
@@ -212,7 +212,7 @@
 
 106. [MultiLingPoT] **MultiLingPoT: Enhancing Mathematical Reasoning with Multilingual Program Fine-tuning**, arXiv:2412.12609 [[paper](https://arxiv.org/abs/2412.12609)] :large_blue_circle:
 
-107. [EIT] **System-2 Mathematical Reasoning via Enriched Instruction Tuning**, arXiv:2412.16964 [[paper](https://arxiv.org/abs/2412.16964)] :large_blue_circle:
+107. [EIT/EITMath] **System-2 Mathematical Reasoning via Enriched Instruction Tuning**, arXiv:2412.16964 [[paper](https://arxiv.org/abs/2412.16964)] :large_blue_circle:
 
 108. [Beyond Captioning] **Beyond Captioning: Task-Specific Prompting for Improved VLM Performance in Mathematical Reasoning**, arXiv:2410.05928 [[paper](https://arxiv.org/abs/2410.05928)]
 

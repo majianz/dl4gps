@@ -30,7 +30,7 @@
 
 15. [Highschool Education] **Multimodal Large Language Models for High School Mathematical Reasoning: Impact of Input Modality and Artifacts**, Authorea Preprints 2025 [[paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174197904.42332272)] :large_blue_circle:
 
-16. [URSA/DualMath-1.1M] **URSA: Understanding and Verifying Chain-of-Thought Reasoning in Multimodal Mathematics**, arXiv:2501.04686 [[paper](https://arxiv.org/abs/2501.04686)] :large_blue_circle:
+16. [URSA/MMathCoT-1M/DualMath-1.1M] **URSA: Understanding and Verifying Chain-of-Thought Reasoning in Multimodal Mathematics**, arXiv:2501.04686 [[paper](https://arxiv.org/abs/2501.04686)] :large_blue_circle:
 
 17. [Vision-R1] **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**, arXiv:2503.06749 [[paper](https://arxiv.org/abs/2503.06749)] :large_blue_circle:
 
@@ -50,7 +50,7 @@
 
 25. [MATHAGENT/Error detection] **MathAgent: Leveraging a Mixture-of-Math-Agent Framework for Real-World Multimodal Mathematical Error Detection**, arXiv:2503.18132 [[paper](https://arxiv.org/abs/2503.18132)] :large_blue_circle:
 
-26. [Reason-RFT] **Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**, arXiv:2503.20752 [[paper](https://arxiv.org/abs/2503.20752)] :large_blue_circle:
+26. [Reason-RFT/GeoMath-8K] **Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**, arXiv:2503.20752 [[paper](https://arxiv.org/abs/2503.20752)] :large_blue_circle:
 
 27. [ViLPRM/VILBENCH] **VILBENCH: A Suite for Vision-Language Process Reward Modeling**, arXiv:2503.20271 [[paper](https://arxiv.org/abs/2503.20271)] :large_blue_circle:
 
@@ -66,7 +66,7 @@
 
 33. [CoMT/ICL] **CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models**, AAAI 2025 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34538)] :large_blue_circle:
 
-34. [AlphaGeometry2] **Gold-medalist Performance in Solving Olympiad Geometry with AlphaGeometry2**, arXiv:2502.03544 [[paper](https://arxiv.org/abs/2502.03544)]
+34. [AlphaGeometry2/IMO-AG-50] **Gold-medalist Performance in Solving Olympiad Geometry with AlphaGeometry2**, arXiv:2502.03544 [[paper](https://arxiv.org/abs/2502.03544)]
 
 35. [Feynman/Diagramma] **Feynman: Knowledge-Infused Diagramming Agent for Scaling Visual Reasoning Data**, openreview 2025 [[paper](https://openreview.net/forum?id=jNmsuEE4Gf)] :large_blue_circle:
 
@@ -99,7 +99,6 @@
 49. [Chain-of-Manipulations] **CogCom: A Visual Language Model with Chain-of-Manipulations Reasoning**, ICLR 2025 [[paper](https://openreview.net/forum?id=Fg0eo2AkST)] :large_blue_circle:
 
 50. [CMMaTH] **CMMaTH: A Chinese Multi-modal Math Skill Evaluation Benchmark for Foundation Models**, COLING 2025 [[paper](https://aclanthology.org/2025.coling-main.184/)] :large_blue_circle:
-
 
 51. [AStar] **Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking**, arXiv:2502.02339 [[paper](https://arxiv.org/abs/2502.02339)] :large_blue_circle:
 
@@ -155,7 +154,7 @@
 
 77. [MM-Verify/MM-Reasoner] **MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification**, arXiv:2502.13383 [[paper](https://arxiv.org/abs/2502.13383)] :large_blue_circle:
 
-78. [TTS for MAS] **Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning**, arXiv:2504.09772 [[paper](https://arxiv.org/abs/2504.09772)] :large_blue_circle:
+78. [TTS4MAS/M500] **Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning**, arXiv:2504.09772 [[paper](https://arxiv.org/abs/2504.09772)] :large_blue_circle:
 
 79. [AIME24 Evaluation] **Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT?**, arXiv:2504.11741 [[paper](https://arxiv.org/abs/2504.11741)] :large_blue_circle:
 

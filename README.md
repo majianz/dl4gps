@@ -181,9 +181,9 @@ This repository is the reading list on ***Deep Learning for Geometry Problem Sol
 
 1. [GPSM4K] **Advancing Multimodal LLMs: A Focus on Geometry Problem Solving Reasoning and Sequential Scoring**, MMASIA 2024 [[paper](https://dl.acm.org/doi/full/10.1145/3696409.3700262)]
 
-1. **Improving Multimodal LLMs Ability In Geometry Problem Solving, Reasoning, And Multistep Scoring**, arXiv:2412.00846 [[paper](https://arxiv.org/abs/2412.00846)]
+1. [GPSM4K] **Improving Multimodal LLMs Ability In Geometry Problem Solving, Reasoning, And Multistep Scoring**, arXiv:2412.00846 [[paper](https://arxiv.org/abs/2412.00846)]
 
-1. **Geo-LLaVA: A Large Multi-Modal Model for Solving Geometry Math Problems with Meta In-Context Learning**, LGM3A 2024 [[paper](https://dl.acm.org/doi/10.1145/3688866.3689124)]
+1. [GeoMath] **Geo-LLaVA: A Large Multi-Modal Model for Solving Geometry Math Problems with Meta In-Context Learning**, LGM3A 2024 [[paper](https://dl.acm.org/doi/10.1145/3688866.3689124)]
 
 1. [GeoExpand/GeoSynth] **Enhancing the Geometric Problem-Solving Ability of Multimodal LLMs via Symbolic-Neural Integration**, arXiv:2504.12773 [[paper](https://arxiv.org/abs/2504.12773)] [[data](https://huggingface.co/datasets/ycpNotFound/GeoGen)]
 
@@ -241,6 +241,8 @@ This repository is the reading list on ***Deep Learning for Geometry Problem Sol
 
 1. [G-MATH] **BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models**, Findings of ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.433/)]
 
+1. [MATHCHECK-GEO] **Is Your Model Really a Good Math Reasoner? Evaluating Mathematical Reasoning With Checklist**, arXiv:2407.08733 [[paper](https://arxiv.org/abs/2407.08733)] [[data](https://huggingface.co/datasets/PremiLab-Math/MathCheck)]
+
 1. [Geo170K-qa] **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**, ICLR 2025 [[paper](https://openreview.net/forum?id=px1674Wp3C&noteId=H99kD23um8)] [[data](https://huggingface.co/datasets/Luckyjhg/Geo170K/tree/main)]
 
 1. [GeoTrust] **TrustGeoGen: Scalable and Formal-Verified Data Engine for Trustworthy Multi-modal Geometric Problem Solving**, arXiv:2504.15780 [[paper](https://arxiv.org/abs/2504.15780)]
@@ -259,10 +261,137 @@ This repository is the reading list on ***Deep Learning for Geometry Problem Sol
 
 ## Tasks and Datasets - Composite Tasks
 
+1. [MathVerse] **MathVerse: Does Your Multi-Modal LLM Truly See the Diagrams in Visual Math Problems?**, ECCV 2024 [[paper](https://dl.acm.org/doi/10.1007/978-3-031-73242-3_10)] [[data](https://huggingface.co/datasets/AI4Math/MathVerse)] :large_blue_circle:
+
+1. [FlowVerse] **MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems**, arXiv:2503.16549 [[paper](https://arxiv.org/abs/2503.16549)] [[data](https://github.com/MathFlow-zju/MathFlow)] :large_blue_circle:
+
 ### Mathematical Reasoning
+
+1. [MATH/AMPS] **Measuring Mathematical Problem Solving With the MATH Dataset**, NeurIPS 2021 [[paper](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/be83ab3ecd0db773eb2dc1b0a17836a1-Paper-round2.pdf)] [[data](https://github.com/hendrycks/math)] :large_blue_circle:
+
+1. [NUMGLUE] **NUMGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks**, ACL 2022 [[paper](https://aclanthology.org/2022.acl-long.246/)] [[data](https://github.com/allenai/numglue)] :large_blue_circle:
+
+1. [Lila] **Lila: A Unified Benchmark for Mathematical Reasoning**, EMNLP 2022 [[paper](https://aclanthology.org/2022.emnlp-main.392/)] [[data](https://huggingface.co/datasets/allenai/lila)] :large_blue_circle:
+
+1. [DMath] **It Ain’t Over: A Multi-Aspect Diverse Math Word Problem Dataset**, EMNLP 2023 [[paper](https://aclanthology.org/2023.emnlp-main.927/)] [[data](https://github.com/JiwooKimAR/dmath)] :large_blue_circle:
+
+1. [TheoremQA] **TheoremQA: A Theorem-driven Question Answering Dataset**, EMNLP 2023 [[paper](https://aclanthology.org/2023.emnlp-main.489/)] [[data](https://huggingface.co/datasets/TIGER-Lab/TheoremQA)] :large_blue_circle:
+
+1. [M3Exam] **M3exam: A multilingual, multimodal, multilevel benchmark for examining large language models**, NeurIPS 2023 [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/117c5c8622b0d539f74f6d1fb082a2e9-Abstract-Datasets_and_Benchmarks.html)] [[data](https://github.com/DAMO-NLP-SG/M3Exam)] :large_blue_circle:
+
+1. [OlympiadBench] **OlympiadBench: A Challenging Benchmark for Promoting AGI With Olympiad-Level Bilingual Multimodal Scientific Problems**, ACL 2024 [[paper](https://aclanthology.org/2024.acl-long.211/)] [[data](https://github.com/OpenBMB/OlympiadBench)] :large_blue_circle:
+
+1. [MathVista] **MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**, ICLR 2024 [[paper](https://iclr.cc/virtual/2024/oral/19768)] [[data](https://huggingface.co/datasets/AI4Math/MathVista)] :large_blue_circle:
+
+1. [MATH-Vision] **Measuring Multimodal Mathematical Reasoning With MATH-Vision Dataset**, NeurIPS 2024 [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ad0edc7d5fa1a783f063646968b7315b-Abstract-Datasets_and_Benchmarks_Track.html)] [[data](https://github.com/mathllm/MATH-V)] :large_blue_circle:
+
+1. [MM-MATH] **MM-MATH: Advancing Multimodal Math Evaluation With Process Evaluation and Fine-Grained Classification**, Findings of EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.73/)] [[data](https://huggingface.co/datasets/THU-KEG/MM_Math)] :large_blue_circle:
+
+1. [We-Math] **We-Math: Does Your Large Multimodal Model Achieve Human-Like Mathematical Reasoning?**, arXiv:2407.01284 [[paper](https://arxiv.org/abs/2407.01284)] [[data](https://huggingface.co/datasets/We-Math/We-Math)] :large_blue_circle:
+
+1. [VisAidMath] **VisAidMath: Benchmarking Visual-Aided Mathematical Reasoning**, arXiv:2410.22995 [[paper](https://arxiv.org/abs/2410.22995)] :large_blue_circle:
+
+1. [CMM-Math] **CMM-Math: A Chinese Multimodal Math Dataset to Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**, arXiv:2409.02834 [[paper](https://arxiv.org/abs/2409.02834)] [[data](https://huggingface.co/datasets/ecnu-icalk/cmm-math)] :large_blue_circle:
+
+1. [MathScape] **MathScape: Evaluating MLLMs in Multimodal Math Scenarios Through a Hierarchical Benchmark**, arXiv:2408.07543 [[paper](https://arxiv.org/abs/2408.07543)] [[data](https://github.com/PKU-Baichuan-MLSystemLab/MathScape)] :large_blue_circle:
+
+1. [VisScience] **VisScience: An Extensive Benchmark for Evaluating K12 Educational Multi-Modal Scientific Reasoning**, arXiv:2409.13730 [[paper](https://arxiv.org/abs/2409.13730)] :large_blue_circle:
+
+1. [ArXivQA] **Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models**, ACL 2024 [[paper](https://aclanthology.org/2024.acl-long.775/)] [[data](https://huggingface.co/datasets/openbmb/VisRAG-Ret-Test-ArxivQA)] :large_blue_circle:
+
+1. [ReMI] **ReMI: A Dataset for Reasoning With Multiple Images**, NeurIPS 2024 [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6ea56c0baacac9f7764257a43a93c90a-Abstract-Datasets_and_Benchmarks_Track.html)] [[data](https://huggingface.co/datasets/mehrankazemi/ReMI)] :large_blue_circle:
+
+1. [MathV360K] **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models**, EMNLP Findings 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.268/)] [[data](https://huggingface.co/datasets/Zhiqiang007/MathV360K/tree/main)] :large_blue_circle:
+
+1. [MultiMath-300K] **MultiMath: Bridging Visual and Mathematical Reasoning for Large Language Models**, arXiv:2409.00147 [[paper](https://arxiv.org/abs/2409.00147)] [[data](https://huggingface.co/datasets/pengshuai-rin/multimath-300k)] :large_blue_circle:
+
+1. [InfiMM-WebMath-40B] **InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced Mathematical Reasoning**, NeurIPS 2024 MATH-AI Workshop [[paper](https://openreview.net/forum?id=Twzrpa6V2o)] [[data](https://huggingface.co/datasets/Infi-MM/InfiMM-WebMath-40B)] :large_blue_circle:
+
+1. [MathVL] **MathGLM-Vision: Solving Mathematical Problems With Multi-Modal Large Language Model**, arXiv:2409.13729 [[paper](https://arxiv.org/abs/2409.13729)] :large_blue_circle:
+
+1. [ArMATH] **Mathematical Problem Solving in Arabic: Assessing Large Language Models**, Procedia Comput. Sci. 2024 [[paper](https://www.sciencedirect.com/science/article/pii/S187705092402982X)] :large_blue_circle:
+
+1. [M3CoT] **M3CoT: A Novel Benchmark for Multi-Domain Multi-Step Multi-Modal Chain-of-Thought**, ACL 2024 [[paper](https://aclanthology.org/2024.acl-long.446/)] [[data](https://huggingface.co/datasets/LightChen2333/M3CoT)] :large_blue_circle:
+
+1. [MathOdyssey] **MathOdyssey: Benchmarking Mathematical Problem-Solving Skills in Large Language Models Using Odyssey Math Data**, arXiv:2406.18321 [[paper](https://arxiv.org/abs/2406.18321)] [[data](https://huggingface.co/datasets/MathOdyssey/MathOdyssey)] :large_blue_circle:
+
+1. [PutnamBench] **PutnamBench: Evaluating Neural Theorem-Provers on the Putnam Mathematical Competition**, NeurIPS 2024 [[paper](https://openreview.net/forum?id=ChKCF75Ocd)] [[data](https://github.com/trishullab/PutnamBench)] :large_blue_circle:
+
+1. [ConceptMath] **ConceptMath: A Bilingual Concept-wise Benchmark for Measuring Mathematical Reasoning of Large Language Models**, Findings of ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.407/)] [[data](https://github.com/conceptmath/conceptmath)] :large_blue_circle:
+
+1. [MATH()] **Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap**, arXiv:2402.19450 [[paper](https://arxiv.org/abs/2402.19450)] :large_blue_circle:
+
+1. [MathBench] **MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark**, Findings of ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.411/)] [[data](https://github.com/open-compass/MathBench)] :large_blue_circle:
+
+1. [HARP] **HARP: A Challenging Human-Annotated Math Reasoning Benchmark**, arXiv:2412.08819 [[paper](https://arxiv.org/abs/2412.08819)] [[data](https://github.com/aadityasingh/HARP)] :large_blue_circle:
+
+1. [M3GIA] **M3GIA: A Cognition-Inspired Multilingual and Multimodal General Intelligence Ability Benchmark**, arXiv:2406.05343 [[paper](https://arxiv.org/abs/2406.05343)] [[data](https://huggingface.co/datasets/Songweii/M3GIA)] :large_blue_circle:
+
+1. [DART-Math] **DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving**, NeurIPS 2024 [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0ef1afa0daa888d695dcd5e9513bafa3-Abstract-Conference.html)] [[data](https://github.com/hkust-nlp/dart-math)] :large_blue_circle:
+
+1. [MathScaleQA] **MathScale: Scaling Instruction Tuning for Mathematical Reasoning**, ICML 2024 [[paper](https://proceedings.mlr.press/v235/tang24k.html)] [[data](https://huggingface.co/papers/2403.02884)] :large_blue_circle:
+
+1. [UTMath] **UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts**, arXiv:2411.07240 [[paper](https://arxiv.org/abs/2411.07240)] [[data](https://github.com/utmathgroup/utmath)] :large_blue_circle:
+
+1. [MultiLingPoT] **MultiLingPoT: Enhancing Mathematical Reasoning with Multilingual Program Fine-tuning**, arXiv:2412.12609 [[paper](https://arxiv.org/abs/2412.12609)] [[data](https://github.com/Nianqi-Li/MultiLingPoT)] :large_blue_circle:
+
+1. [EITMath] **System-2 Mathematical Reasoning via Enriched Instruction Tuning**, arXiv:2412.16964 [[paper](https://arxiv.org/abs/2412.16964)] :large_blue_circle:
+
+1. [AMATH-SFT] **AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning**, arXiv:2411.11930 [[paper](https://arxiv.org/abs/2411.11930)] [[data](https://huggingface.co/datasets/Quinn777/AMATH-SFT)] :large_blue_circle:
+
+1. [AMATH-SFT] **Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?**, arXiv:2503.06252 [[paper](https://arxiv.org/abs/2503.06252)] [[data](https://huggingface.co/datasets/Quinn777/AMATH-SFT)] :large_blue_circle:
+
+1. [MMathCoT-1M] **URSA: Understanding and Verifying Chain-of-Thought Reasoning in Multimodal Mathematics**, arXiv:2501.04686 [[paper](https://arxiv.org/abs/2501.04686)] [[data](https://huggingface.co/datasets/URSA-MATH/MMathCoT-1M)] :large_blue_circle:
+
+1. [DynaMath] **DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models**, ICLR 2025 [[paper](https://openreview.net/forum?id=VOAMTA8jKu)] [[data](https://huggingface.co/datasets/DynaMath/DynaMath_Sample)] :large_blue_circle:
+
+1. [CoMT] **CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models**, AAAI 2025 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34538)] [[data](https://huggingface.co/datasets/czh-up/CoMT)] :large_blue_circle:
+
+1. [Diagramma] **Feynman: Knowledge-Infused Diagramming Agent for Scaling Visual Reasoning Data**, openreview 2025 [[paper](https://openreview.net/forum?id=jNmsuEE4Gf)] :large_blue_circle:
+
+1. [MV-MATH] **MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**, arXiv:2502.20808 [[paper](https://arxiv.org/abs/2502.20808)] [[data](https://huggingface.co/datasets/PeijieWang/MV-MATH)] :large_blue_circle:
+
+1. [CMMaTH] **CMMaTH: A Chinese Multi-modal Math Skill Evaluation Benchmark for Foundation Models**, COLING 2025 [[paper](https://aclanthology.org/2025.coling-main.184/)] :large_blue_circle:
+
+1. [Math-PUMA-1M] **Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning**, AAAI 2025 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34815)] [[data](https://huggingface.co/Math-PUMA)] :large_blue_circle:
+
+1. [VisualWebInstruct] **VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search**, arXiv:2503.10582 [[paper](https://arxiv.org/abs/2503.10582)] [[data](https://huggingface.co/datasets/TIGER-Lab/VisualWebInstruct)] :large_blue_circle:
+
+1. [MAVIS-Instruct] **MAVIS: Mathematical Visual Instruction Tuning with an Automatic Data Engine**, ICLR 2025 [[data](https://github.com/ZrrSkywalker/MAVIS)] [[data](https://openreview.net/forum?id=MnJzJ2gvuf)]
+
+1. [Omni-MATH] **Omni-MATH: A Universal Olympiad Level Mathematic Benchmark for Large Language Models**, ICLR 2025 [[paper](https://openreview.net/forum?id=yaqPf0KAlN)] [[data](https://omni-math.github.io/)] :large_blue_circle:
+
+1. [MathConstruct] **MathConstruct: Challenging LLM Reasoning with Constructive Proofs**, ICLR 2025 VerifAI Workshop [[paper](https://openreview.net/forum?id=nHW2tiGMrb)] [[data](https://github.com/eth-sri/mathconstruct)] :large_blue_circle:
+
+1. [VCBench] **Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency**, arXiv:2504.18589 [[paper](https://arxiv.org/abs/2504.18589)] [[data](https://huggingface.co/datasets/cloudcatcher2/VCBench)] :large_blue_circle:
+
+1. [OlymMATH] **Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models**, arXiv:2503.21380 [[paper](https://arxiv.org/abs/2503.21380)] [[data](https://huggingface.co/datasets/RUC-AIBOX/OlymMATH)] :large_blue_circle:
+
+1. [RoR-Bench] **Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?**, arXiv:2504.00509 [[paper](https://arxiv.org/abs/2504.00509)] [[data](https://huggingface.co/datasets/kaiyan289/RoR-Bench/tree/main)] :large_blue_circle:
+
+1. [PolyMath] **PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts**, arXiv:2504.18428 [[paper](https://arxiv.org/abs/2504.18428)] [[data](https://huggingface.co/datasets/Qwen/PolyMath)] :large_blue_circle:
+
+1. [MaTT] **LLMs Are Not Intelligent Thinkers: Introducing Mathematical Topic Tree Benchmark for Comprehensive Evaluation of LLMs**, NAACL 2025 [[paper](https://aclanthology.org/2025.naacl-long.161/)] [[data](https://github.com/arashgholami/MaTT)] :large_blue_circle:
+
+1. [CapaBench] **Who's the MVP? A Game-Theoretic Evaluation Benchmark for Modular Attribution in LLM Agents**, arXiv:2502.00510 [[paper](https://arxiv.org/abs/2502.00510)] [[data](https://github.com/zoe-yyx/CapaBench)] :large_blue_circle:
+
+1. [MATH-Perturb] **MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations**, ICLR 2025 LLM Reason&Plan Workshop [[paper](https://openreview.net/forum?id=M8OLGgYK7e&referrer=%5Bthe%20profile%20of%20Xinyun%20Chen%5D%28%2Fprofile%3Fid%3D~Xinyun_Chen1%29)] [[data](https://math-perturb.github.io/)] :large_blue_circle:
+
+1. [M500] **Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning**, arXiv:2504.09772 [[paper](https://arxiv.org/abs/2504.09772)] [[data](https://huggingface.co/datasets/Can111/m500)] :large_blue_circle:
+
+1. [KPMATH-M] **Key-Point-Driven Data Synthesis with Its Enhancement on Mathematical Reasoning**, AAAI 2025 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34593)] :large_blue_circle:
 
 ### Multimodal Perception
 
+1. [AVSBench] **Decomposing Complex Visual Comprehension Into Atomic Visual Skills for Vision Language Models**, NeurIPS 2024 MATH-AI Workshop [[paper](https://openreview.net/forum?id=nFU4xCyoe0)] [[data](https://github.com/Atomic-Visual-Skills/AVS)] :large_blue_circle:
+
+1. [VisOnlyQA] **VisOnlyQA: Large Vision Language Models Still Struggle With Visual Perception of Geometric Information**, arXiv:2412.00947 [[paper](https://arxiv.org/abs/2412.00947)] [[data](https://github.com/psunlpgroup/VisOnlyQA)] :large_blue_circle:
+
+1. [VisNumBench] **VisNumBench: Evaluating Number Sense of Multimodal Large Language Models**, arXiv:2503.14939 [[paper](https://arxiv.org/abs/2503.14939)] [[data](https://huggingface.co/datasets/GML-FMGroup/VisNumBench)] :large_blue_circle:
+
+1. [MATHGLANCE/GeoPeP] **MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams**, arXiv:2503.20745 [[paper](https://arxiv.org/abs/2503.20745)] [[data](https://mathglance.github.io/)]
+
+1. [CogAlign-Probing/CogAlign-train] **Why Vision Language Models Struggle with Visual Arithmetic? Towards Enhanced Chart and Geometry Understanding**, Findings of ACL 2025 [[paper](https://arxiv.org/abs/2502.11492)] [[data](https://huggingface.co/datasets/Salesforce/CogAlign)]
 
 ## Related Surveys
 
@@ -299,6 +428,3 @@ This repository is the reading list on ***Deep Learning for Geometry Problem Sol
 16. **From System 1 to System 2: A Survey of Reasoning Large Language Models**, arXiv:2502.17419 [[paper](https://arxiv.org/abs/2502.17419)] :large_blue_circle:
 
 17. **Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents**, arXiv:2503.24047 [[paper](https://arxiv.org/abs/2503.24047)] :large_blue_circle:
-
-
-
