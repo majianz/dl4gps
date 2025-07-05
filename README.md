@@ -21,16 +21,26 @@ This repository is the reading list on ***Deep Learning for Geometry Problem Sol
     - [Geometry Problem Parsing](#geometry-problem-parsing)
         - [Semantic Parsing for Geometry Problem](#semantic-parsing-for-geometry-problem)
         - [Geometric Diagram Parsing](#geometric-diagram-parsing)
-    - [Geometry Problem Understanding](#geometry-problem-understanding)
-        - [Geometric Diagram Understanding](#geometric-diagram-understanding)
-        - [Geometric Relation Extraction](#geometric-relation-extraction)
-        - [Geometric Knowledge Prediction](#geometric-knowledge-prediction)
+    - [Geometry Problem Understanding](#geometry-problem-understanding---geometric-diagram-understanding)
+        - [Geometric Diagram Understanding](#geometry-problem-understanding---geometric-diagram-understanding)
+        - [Geometric Relation Extraction](#geometry-problem-understanding---geometric-relation-extraction)
+        - [Geometric Knowledge Prediction](#geometry-problem-understanding---geometric-knowledge-prediction)
 - [Tasks and Datasets - Core Tasks](#tasks-and-datasets---core-tasks)
     - [Geometry Theorem Proving](#geometry-theorem-proving)
     - [Geometric Numerical Calculation](#geometric-numerical-calculation)
 - [Tasks and Datasets - Composite Tasks](#tasks-and-datasets---composite-tasks)
     - [Mathematical Reasoning](#mathematical-reasoning)
     - [Multimodal Perception](#multimodal-perception)
+- [Tasks and Datasets - Other Geometry Tasks](#tasks-and-datasets---other-geometry-tasks)
+    - [Geometric Diagram Generation](#geometric-diagram-generation)
+        - [Geometric Diagram Reconstruction](#geometric-diagram-reconstruction)
+        - [Geometric Text-to-Diagram](#geometric-text-to-diagram)
+    - [Geometric Construction Problem](#geometric-construction-problem)
+    - [Geometric Diagram Retrieval](#geometric-diagram-retrieval)
+    - [Geometric Autoformalization](#geometric-autoformalization)
+- [Architectures](#architectures)
+    - [Encoder-Decoder](#encoder-decoder)
+- [Methods](#methods)
 - [Related Surveys](#related-surveys)
 
 ## Surveys
@@ -109,9 +119,7 @@ This repository is the reading list on ***Deep Learning for Geometry Problem Sol
 
 1. [SynthGeo228K/formalgeo-structure774k] **Diagram Formalization Enhanced Multi-Modal Geometry Problem Solver**, ICASSP 2025 [[paper](https://ieeexplore.ieee.org/abstract/document/10889286/)] [[data](https://huggingface.co/datasets/JO-KU/SynthGeo228K)]
 
-### Geometry Problem Understanding
-
-### Geometric Diagram Understanding
+### Geometry Problem Understanding - Geometric Diagram Understanding
 
 1. [Geoclidean] **Geoclidean: Few-Shot Generalization in Euclidean Geometry**, NeurIPS 2022 [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/feb34ce77fc8b94c85d12e608b23ce67-Abstract-Datasets_and_Benchmarks.html)] [[data](https://downloads.cs.stanford.edu/viscam/Geoclidean/geoclidean.zip)]
 
@@ -137,7 +145,7 @@ This repository is the reading list on ***Deep Learning for Geometry Problem Sol
 
 1. [GeoX-alignment] **GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-Training**, ICLR 2025 [[paper](https://openreview.net/forum?id=6RiBl5sCDF)] [[data](https://huggingface.co/datasets/U4R/GeoX-data)]
 
-### Geometric Relation Extraction
+### Geometry Problem Understanding - Geometric Relation Extraction
 
 1. **Diagram Understanding in Geometry Questions**, AAAI 2014 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/9146)] :x:
 
@@ -157,7 +165,7 @@ This repository is the reading list on ***Deep Learning for Geometry Problem Sol
 
 1. **A Knowledge and Semantic Fusion Method for Automatic Geometry Problem Understanding**, Appl. Sci. 2025 [[paper](https://www.mdpi.com/2076-3417/15/7/3857)]
 
-### Geometric Knowledge Prediction
+### Geometry Problem Understanding - Geometric Knowledge Prediction
 
 1. **Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning**, ACL 2021 [[paper](https://aclanthology.org/2021.acl-long.528/)]
 
@@ -392,6 +400,68 @@ This repository is the reading list on ***Deep Learning for Geometry Problem Sol
 1. [MATHGLANCE/GeoPeP] **MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams**, arXiv:2503.20745 [[paper](https://arxiv.org/abs/2503.20745)] [[data](https://mathglance.github.io/)]
 
 1. [CogAlign-Probing/CogAlign-train] **Why Vision Language Models Struggle with Visual Arithmetic? Towards Enhanced Chart and Geometry Understanding**, Findings of ACL 2025 [[paper](https://arxiv.org/abs/2502.11492)] [[data](https://huggingface.co/datasets/Salesforce/CogAlign)]
+
+## Tasks and Datasets - Other Geometry Tasks
+
+### Geometric Diagram Generation
+
+1. [GeoX-pretrain] **GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-Training**, ICLR 2025 [[paper](https://openreview.net/forum?id=6RiBl5sCDF)] [[data](https://huggingface.co/datasets/U4R/GeoX-data)]
+
+### Geometric Diagram Reconstruction
+
+1. **Automatic Reconstruction of Plane Geometry Figures in Documents**, EITT 2015 [[paper](https://ieeexplore.ieee.org/abstract/document/7446145/)] :small_red_triangle: :x:
+
+1. **Solid Geometric Object Reconstruction from Single Line Drawing Image**, GRAPP 2015 [[paper](https://www.scitepress.org/PublishedPapers/2015/52612/)] :small_red_triangle: :x:
+
+1. **Recovering Solid Geometric Object from Single Line Drawing Image**, Multimed Tools Appl 2016 [[paper](https://link.springer.com/article/10.1007/s11042-015-2966-x)] :small_red_triangle: :x:
+
+1. **An Example-based Approach to 3D Man-made Object Reconstruction from Line Drawings**, Pattern Recogn 2016 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320316301170)] :small_red_triangle: :x:
+
+1. **Context-aware Geometric Object Reconstruction for Mobile Education**, MM 2016 [[paper](https://dl.acm.org/doi/abs/10.1145/2964284.2967244)] :small_red_triangle: :x:
+
+### Geometric Text-to-Diagram
+
+1. **Automated Generation of Illustrations for Synthetic Geometry Proofs**, ADG 2021 [[paper](https://arxiv.org/abs/2201.00540)] :small_red_triangle: :x:
+
+1. [GMBL] **Automatically Building Diagrams for Olympiad Geometry Problems**, CADE 2021 [[paper](https://dl.acm.org/doi/abs/10.1007/978-3-030-79876-5_33)] [[data](https://github.com/rkruegs123/geo-model-builder?tab=readme-ov-file)] :small_red_triangle: :x:
+
+1. **A Precise Text-to-Diagram Generation Method for Elementary Geometry**, ICCWAMTIP 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10387090)] :small_red_triangle:
+
+1. [MagicGeoBench] **MagicGeo: Training-Free Text-Guided Geometric Diagram Generation**, arXiv:2502.13855 [[paper](https://arxiv.org/abs/2502.13855)] :small_red_triangle:
+
+1. **GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions**, arXiv:2504.10146 [[paper](https://arxiv.org/pdf/2504.10146)]
+
+### Geometric Construction Problem
+
+1. **Learning to Solve Geometric Construction Problems from Images**, CICM 2021 [[paper](https://link.springer.com/chapter/10.1007/978-3-030-81097-9_14)] :small_red_triangle:
+
+1. **EuclidNet: Deep Visual Reasoning for Constructible Problems in Geometry**, AIML 2023 [[paper](https://arxiv.org/abs/2301.13007)] :small_red_triangle:
+
+1. [Euclidea/PyEuclidea] **Beyond Lines and Circles Unveiling the Geometric Reasoning Gap in Large Language Models**, Findings of EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.360/)] [[data](https://github.com/mirefek/py_euclidea)] :small_red_triangle:
+
+### Geometric Diagram Retrieval
+
+1. **Plane Geometry Figure Retrieval Based on Bilayer Geometric Attributed Graph Matching**, ICPR 2014 [[paper](https://ieeexplore.ieee.org/abstract/document/6976773/)] :small_red_triangle: :x:
+
+1. **Plane Geometry Figure Retrieval with Bag of Shapes**, IAPR 2014 DAS Workshop [[paper](https://ieeexplore.ieee.org/abstract/document/6976773/)] :small_red_triangle: :x:
+
+1. **Plane Geometry Diagram Retrieval by Using Hierarchical Searching Strategy**, ICIMCS 2016 [[paper](https://dl.acm.org/doi/abs/10.1145/3007669.3007671)] :small_red_triangle: :x:
+
+1. **Analysis of Stroke Intersection for Overlapping PGF Elements**, IAPR 2016 DAS Workshop [[paper](https://ieeexplore.ieee.org/abstract/document/7490125/)] :small_red_triangle: :x:
+
+1. **Improving PGF retrieval effectiveness with active learning**, ICPR 2016 [[paper](https://ieeexplore.ieee.org/abstract/document/7899787/)] :small_red_triangle: :x:
+
+1. **Improving Retrieval of Plane Geometry Figure with Learning to Rank**, PTRL 2016 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865516301040)] :small_red_triangle: :x:
+
+### Geometric Autoformalization
+
+1. [LeanEuclid] **Autoformalizing Euclidean Geometry**, ICML 2024 [[paper](https://dl.acm.org/doi/abs/10.5555/3692070.3693567)] [[data](https://github.com/loganrjmurphy/LeanEuclid?tab=readme-ov-file)] :small_red_triangle:
+
+## Architectures
+
+### Encoder-Decoder
+
+## Methods
 
 ## Related Surveys
 
