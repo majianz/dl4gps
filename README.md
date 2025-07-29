@@ -275,7 +275,7 @@ This repository is the reading list on ***A Survey of Deep Learning for Geometry
 - **EuclidNet: Deep Visual Reasoning for Constructible Problems in Geometry**, AIML 2023 [[paper](https://arxiv.org/abs/2301.13007)] :small_red_triangle:
 - **Beyond Lines and Circles Unveiling the Geometric Reasoning Gap in Large Language Models**, Findings of EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.360/)] [[Euclidea/PyEuclidea data](https://github.com/mirefek/py_euclidea)] :small_red_triangle:
 
-### Geometric Diagram Retrieval
+### Geometric Figure Retrieval
 
 - **Plane Geometry Figure Retrieval Based on Bilayer Geometric Attributed Graph Matching**, ICPR 2014 [[paper](https://ieeexplore.ieee.org/abstract/document/6976773/)] :small_red_triangle: :x:
 - **Plane Geometry Figure Retrieval with Bag of Shapes**, IAPR 2014 DAS Workshop [[paper](https://ieeexplore.ieee.org/abstract/document/6976773/)] :small_red_triangle: :x:
