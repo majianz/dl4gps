@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Survey](https://img.shields.io/badge/Survey-DL4GPS-blue)](https://github.com/majianz/gps-survey) 
 
-This repository is the reading list on ***A Survey of Deep Learning for Geometry Problem Solving (DL4GPS)***. You can also search for corresponding papers by year in folders named after the corresponding time. We will update the papers after a certain period of time. The current deadline for included papers is **April 2025**.
+This repository is the reading list on ***A Survey of Deep Learning for Geometry Problem Solving (DL4GPS)***. We will update the papers after a certain period of time. The current deadline for included papers is **April 2025**.
 
 - :large_blue_circle: indicates that the work is not specifically designed for geometry problems.
 
@@ -56,6 +56,7 @@ This repository is the reading list on ***A Survey of Deep Learning for Geometry
     - [2023](#2023)
     - [2024](#2024)
     - [2025](#2025)
+- [Citation](#citation)
 
 ## Surveys
 
@@ -882,3 +883,16 @@ This repository is the reading list on ***A Survey of Deep Learning for Geometry
 85. **Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents**, arXiv:2503.24047 [[paper](https://arxiv.org/abs/2503.24047)] :large_blue_circle:
 86. **Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey**, arXiv:2505.14340 [[paper](https://arxiv.org/abs/2505.14340)]
 87. **Towards Geometry Problem Solving in the Large Model Era: A Survey**, arXiv:2506.02690 [[paper](https://arxiv.org/abs/2506.02690)]
+
+## Citation
+
+If you find this repository useful, please consider citing our survey paper:
+
+```
+@article{ma2025survey,
+  title={A Survey of Deep Learning for Geometry Problem Solving},
+  author={Ma, Jianzhe and Wang, Wenxuan and Jin, Qin},
+  journal={arXiv preprint arXiv:2507.11936},
+  year={2025}
+}
+```
