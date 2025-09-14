@@ -12,6 +12,8 @@ This repository is the reading list on ***A Survey of Deep Learning for Geometry
 
 - :x: indicates no deep learning method is used.
 
+For more details, please refer to the paper: [A Survey of Deep Learning for Geometry Problem Solving](https://arxiv.org/abs/2507.11936).
+
 :bell: If you have any suggestions or notice something we missed, please don't hesitate to let us know. You can directly email Jianzhe Ma (majianzhe@ruc.edu.cn), or post an issue on this repo.
 
 ## Table of Contents
@@ -325,7 +327,7 @@ This repository is the reading list on ***A Survey of Deep Learning for Geometry
 - **A Geometric Neural Solving Method Based on a Diagram Text Information Fusion Analysis**, Sci. Rep. 2024 [[paper](https://www.nature.com/articles/s41598-024-83287-6)]
 - **Maths: Multimodal Transformer-Based Human-Readable Solver**, ICME 2024 [[paper](https://ieeexplore.ieee.org/abstract/document/10687434)]
 - **R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models**, arXiv:2410.17885 [[paper](https://arxiv.org/abs/2410.17885)]
-- **SANS: Spatial-Aware Neural Solver for Plane Geometry Problem**, ICPR 2025 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78119-3_13)]
+- **SANS: Spatial-Aware Neural Solver for Plane Geometry Problem**, ICPR 2024 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78119-3_13)]
 - **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**, ICLR 2025 [[paper](https://openreview.net/forum?id=px1674Wp3C&noteId=H99kD23um8)]
 - **MAVIS: Mathematical Visual Instruction Tuning with an Automatic Data Engine**, ICLR 2025 [[paper](https://openreview.net/forum?id=MnJzJ2gvuf)]
 - **GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-Training**, ICLR 2025 [[paper](https://openreview.net/forum?id=6RiBl5sCDF)]
@@ -371,7 +373,7 @@ This repository is the reading list on ***A Survey of Deep Learning for Geometry
 - **A Symbolic Characters Aware Model for Solving Geometry Problems**, MM 2023 [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612570/)]
 - **LANS: A Layout-Aware Neural Solver for Plane Geometry Problem**, Findings of ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.153/)]
 - **A Geometric Neural Solving Method Based on a Diagram Text Information Fusion Analysis**, Sci. Rep. 2024 [[paper](https://www.nature.com/articles/s41598-024-83287-6)]
-- **SANS: Spatial-Aware Neural Solver for Plane Geometry Problem**, ICPR 2025 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78119-3_13)]
+- **SANS: Spatial-Aware Neural Solver for Plane Geometry Problem**, ICPR 2024 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78119-3_13)]
 - **Measuring Mathematical Problem Solving With the MATH Dataset**, NeurIPS 2021 [[paper](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/be83ab3ecd0db773eb2dc1b0a17836a1-Paper-round2.pdf)] :large_blue_circle:
 - **InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced Mathematical Reasoning**, NeurIPS 2024 MATH-AI Workshop [[paper](https://openreview.net/forum?id=Twzrpa6V2o)] :large_blue_circle:
 - **Diagram Formalization Enhanced Multi-Modal Geometry Problem Solver**, ICASSP 2025 [[paper](https://ieeexplore.ieee.org/abstract/document/10889286/)]
@@ -402,7 +404,7 @@ This repository is the reading list on ***A Survey of Deep Learning for Geometry
 - **E-GPS: Explainable Geometry Problem Solving via Top-Down Solver and Bottom-Up Generator**, CVPR 2024 [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_E-GPS_Explainable_Geometry_Problem_Solving_via_Top-Down_Solver_and_Bottom-Up_CVPR_2024_paper.html)]
 - **FormalGeo: An Extensible Formalized Framework for Olympiad Geometric Problem Solving**, arXiv:2310.18021 [[paper](https://arxiv.org/abs/2310.18021)] :x:
 - **A Deep Reinforcement Learning Agent for Geometry Online Tutoring**, KAIS 2023 [[paper](https://link.springer.com/article/10.1007/s10115-022-01804-3)]
-- **SANS: Spatial-Aware Neural Solver for Plane Geometry Problem**, ICPR 2025 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78119-3_13)]
+- **SANS: Spatial-Aware Neural Solver for Plane Geometry Problem**, ICPR 2024 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78119-3_13)]
 - **DART-Math: Difficulty-Aware Rejection Tuning for Mathematical Problem-Solving**, NeurIPS 2024 [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0ef1afa0daa888d695dcd5e9513bafa3-Abstract-Conference.html)] :large_blue_circle:
 - **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models**, EMNLP Findings 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.268/)] [[MathV360K data](https://huggingface.co/datasets/Zhiqiang007/MathV360K/tree/main)] :large_blue_circle:
 - **GeoVQA: A Comprehensive Multimodal Geometry Dataset for Secondary Education**, MIPR 2024 [[paper](https://ieeexplore.ieee.org/abstract/document/10707789)]
@@ -793,96 +795,96 @@ This repository is the reading list on ***A Survey of Deep Learning for Geometry
 113. **A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery**, EMNLP 2024 [[paper](https://aclanthology.org/2024.emnlp-main.498/)] :large_blue_circle:
 114. **Towards Robust Automated Math Problem Solving: A Survey of Statistical and Deep Learning Approaches**, Evol. Intell. 2024 [[paper](https://link.springer.com/article/10.1007/s12065-024-00957-0)] :large_blue_circle:
 115. **Proposing and Solving Olympiad Geometry with Guided Tree Search**, arXiv:2412.10673 [[paper](https://arxiv.org/abs/2412.10673)]
+116. **SANS: Spatial-Aware Neural Solver for Plane Geometry Problem**, ICPR 2024 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78119-3_13)]
 
 ### 2025
 
 1. **AutoGeo: Automating Geometric Image Dataset Creation for Enhanced Geometry Understanding**, IEEE Trans. Multimedia 2025 [[paper](https://ieeexplore.ieee.org/abstract/document/10960701/)]
-2. **SANS: Spatial-Aware Neural Solver for Plane Geometry Problem**, ICPR 2025 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78119-3_13)]
-3. **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**, ICLR 2025 [[paper](https://openreview.net/forum?id=px1674Wp3C&noteId=H99kD23um8)]
-4. **MAVIS: Mathematical Visual Instruction Tuning with an Automatic Data Engine**, ICLR 2025 [[paper](https://openreview.net/forum?id=MnJzJ2gvuf)]
-5. **DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models**, ICLR 2025 [[paper](https://openreview.net/forum?id=VOAMTA8jKu)] :large_blue_circle:
-6. **Do Large Language Models Truly Understand Geometric Structures?**, ICLR 2025 [[paper](https://openreview.net/forum?id=FjQOXenaXK)]
-7. **GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-Training**, ICLR 2025 [[paper](https://openreview.net/forum?id=6RiBl5sCDF)]
-8. **Diagram Formalization Enhanced Multi-Modal Geometry Problem Solver**, ICASSP 2025 [[paper](https://ieeexplore.ieee.org/abstract/document/10889286/)]
-9. **A Knowledge and Semantic Fusion Method for Automatic Geometry Problem Understanding**, Appl. Sci. 2025 [[paper](https://www.mdpi.com/2076-3417/15/7/3857)]
-10. **ElementaryCQT: A New Dataset and Its Deep Learning Analysis for 2D Geometric Shape Recognition**, SN Comput. Sci. 2025 [[paper](https://link.springer.com/article/10.1007/s42979-024-03521-w)]
-11. **Exploration of Formalization Techniques for Geometric Entities in Planar Geometry Proposition Texts**, JAIP 2025 [[paper](https://www.clausiuspress.com/assets/default/article/2025/02/27/article_1740641608.pdf)]
-12. **FGeo-Parser: Autoformalization and Solution of Plane Geometric Problems**, Symmetry 2025 [[paper](https://www.mdpi.com/2073-8994/17/1/8)]
-13. **GeoDANO: Geometric VLM with Domain Agnostic Vision Encoder**, arXiv:2502.11360 [[paper](https://arxiv.org/abs/2502.11360)]
-14. **Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning**, AAAI 2025 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34815)] :large_blue_circle:
-15. **Multimodal Large Language Models for High School Mathematical Reasoning: Impact of Input Modality and Artifacts**, Authorea Preprints 2025 [[paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174197904.42332272)] :large_blue_circle:
-16. **URSA: Understanding and Verifying Chain-of-Thought Reasoning in Multimodal Mathematics**, arXiv:2501.04686 [[paper](https://arxiv.org/abs/2501.04686)] :large_blue_circle:
-17. **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**, arXiv:2503.06749 [[paper](https://arxiv.org/abs/2503.06749)] :large_blue_circle:
-18. **VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM**, PMLR 2025 [[paper](https://proceedings.mlr.press/v264/lee25b)]
-19. **LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**, arXiv:2503.07536 [[paper](https://arxiv.org/abs/2503.07536)]
-20. **VisualPRM: An Effective Process Reward Model for Multimodal Reasoning**, arXiv:2503.10291 [[paper](https://arxiv.org/abs/2503.10291)] :large_blue_circle:
-21. **VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search**, arXiv:2503.10582 [[paper](https://arxiv.org/abs/2503.10582)] :large_blue_circle:
-22. **VisNumBench: Evaluating Number Sense of Multimodal Large Language Models**, arXiv:2503.14939 [[paper](https://arxiv.org/abs/2503.14939)] :large_blue_circle:
-23. **Interactive Sketchpad: A Multimodal Tutoring System for Collaborative, Visual Problem-Solving**, arXiv:2503.16434 [[paper](https://arxiv.org/abs/2503.16434)] :large_blue_circle:
-24. **OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**, arXiv:2503.17352 [[paper](https://arxiv.org/abs/2503.17352)] :large_blue_circle:
-25. **MathAgent: Leveraging a Mixture-of-Math-Agent Framework for Real-World Multimodal Mathematical Error Detection**, arXiv:2503.18132 [[paper](https://arxiv.org/abs/2503.18132)] :large_blue_circle:
-26. **Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**, arXiv:2503.20752 [[paper](https://arxiv.org/abs/2503.20752)] :large_blue_circle:
-27. **VILBENCH: A Suite for Vision-Language Process Reward Modeling**, arXiv:2503.20271 [[paper](https://arxiv.org/abs/2503.20271)] :large_blue_circle:
-28. **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**, arXiv:2504.07934 [[paper](https://arxiv.org/abs/2504.07934)] :large_blue_circle:
-29. **VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search**, arXiv:2504.09130 [[paper](https://arxiv.org/abs/2504.09130)]
-30. **GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs**, AAAI 2025 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34679)]
-31. **Enhancing the Geometric Problem-Solving Ability of Multimodal LLMs via Symbolic-Neural Integration**, arXiv:2504.12773 [[paper](https://arxiv.org/abs/2504.12773)]
-32. **GeoSense: Evaluating Identification and Application of Geometric Principles in Multimodal Reasoning**, arXiv:2504.12597 [[paper](https://arxiv.org/abs/2504.12597)]
-33. **CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models**, AAAI 2025 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34538)] :large_blue_circle:
-34. **Gold-medalist Performance in Solving Olympiad Geometry with AlphaGeometry2**, arXiv:2502.03544 [[paper](https://arxiv.org/abs/2502.03544)]
-35. **Feynman: Knowledge-Infused Diagramming Agent for Scaling Visual Reasoning Data**, openreview 2025 [[paper](https://openreview.net/forum?id=jNmsuEE4Gf)] :large_blue_circle:
-36. **GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions**, arXiv:2504.10146 [[paper](https://arxiv.org/pdf/2504.10146)]
-37. **MagicGeo: Training-Free Text-Guided Geometric Diagram Generation**, arXiv:2502.13855 [[paper](https://arxiv.org/abs/2502.13855)] :small_red_triangle:
-38. **MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams**, arXiv:2503.20745 [[paper](https://arxiv.org/abs/2503.20745)]
-39. **Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**, arXiv:2501.01904 [[paper](https://arxiv.org/abs/2501.01904)] :large_blue_circle:
-40. **Open Eyes, Then Reason: Fine-grained Visual Mathematical Understanding in MLLMs**, arXiv:2501.06430 [[paper](https://arxiv.org/abs/2501.06430)]
-41. **MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**, arXiv:2502.20808 [[paper](https://arxiv.org/abs/2502.20808)] :large_blue_circle:
-42. **Pi-GPS: Enhancing Geometry Problem Solving by Unleashing the Power of Diagrammatic Information**, arXiv:2503.05543 [[paper](https://arxiv.org/abs/2503.05543)]
-43. **MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems**, arXiv:2503.16549 [[paper](https://arxiv.org/abs/2503.16549)] :large_blue_circle:
-44. **RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?**, arXiv:2501.11284 [[paper](https://arxiv.org/abs/2501.11284)]
-45. **Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?**, arXiv:2503.06252 [[paper](https://arxiv.org/abs/2503.06252)] :large_blue_circle:
-46. **GeoCoder: Solving Geometry Problems by Generating Modular Code through Vision-Language Models**, Findings of NAACL 2025 [[paper](https://aclanthology.org/2025.findings-naacl.410.pdf)]
-47. **DrawEduMath: Evaluating Vision Language Models with Expert-Annotated Students’ Hand-Drawn Math Images**, NAACL 2025 [[paper](https://openreview.net/forum?id=0vQYvcinij)] :large_blue_circle:
-48. **Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency**, arXiv:2504.18589 [[paper](https://arxiv.org/abs/2504.18589)] :large_blue_circle:
-49. **CogCom: A Visual Language Model with Chain-of-Manipulations Reasoning**, ICLR 2025 [[paper](https://openreview.net/forum?id=Fg0eo2AkST)] :large_blue_circle:
-50. **CMMaTH: A Chinese Multi-modal Math Skill Evaluation Benchmark for Foundation Models**, COLING 2025 [[paper](https://aclanthology.org/2025.coling-main.184/)] :large_blue_circle:
-51. **Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking**, arXiv:2502.02339 [[paper](https://arxiv.org/abs/2502.02339)] :large_blue_circle:
-52. **Forgotten Polygons: Multimodal Large Language Models are Shape-Blind**, arXiv:2502.15969 [[paper](https://arxiv.org/abs/2502.15969)]
-53. **Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning**, arXiv:2503.07065 [[paper](https://arxiv.org/abs/2502.15969)] :large_blue_circle:
-54. **Boosting MLLM Reasoning with Text-Debiased Hint-GRPO**, arXiv:2503.23905 [[paper](https://arxiv.org/abs/2503.23905)]
-55. **PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search**, arXiv:2504.10222 [[paper](https://arxiv.org/abs/2504.10222)] :large_blue_circle:
-56. **SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models**, arXiv:2504.11468 [[paper](https://arxiv.org/abs/2504.11468)] :large_blue_circle:
-57. **NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**, arXiv:2504.13055 [[paper](https://arxiv.org/abs/2504.13055)] :large_blue_circle:
-58. **TrustGeoGen: Scalable and Formal-Verified Data Engine for Trustworthy Multi-modal Geometric Problem Solving**, arXiv:2504.15780 [[paper](https://arxiv.org/abs/2504.15780)]
-59. **On The Potential of Using Generative Artificial Intelligence for Geometry Educational Activities**, hal 2025 [[paper](https://hal.science/hal-05022472/)]
-60. **Omni-MATH: A Universal Olympiad Level Mathematic Benchmark for Large Language Models**, ICLR 2025 [[paper](https://openreview.net/forum?id=yaqPf0KAlN)] :large_blue_circle:
-61. **MathConstruct: Challenging LLM Reasoning with Constructive Proofs**, ICLR 2025 VerifAI Workshop [[paper](https://openreview.net/forum?id=nHW2tiGMrb)] :large_blue_circle:
-62. **TMATH: A Dataset for Evaluating Large Language Models in Generating Educational Hints for Math Word Problems**, COLING 2025 [[paper](https://aclanthology.org/2025.coling-main.340/)] :large_blue_circle:
-63. **MathClean: A Benchmark for Synthetic Mathematical Data Cleaning**, arXiv:2502.19508 [[paper](https://arxiv.org/abs/2502.19058)] :large_blue_circle:
-64. **Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models**, arXiv:2503.21380 [[paper](https://arxiv.org/abs/2503.21380)] :large_blue_circle:
-65. **Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?**, arXiv:2504.00509 [[paper](https://arxiv.org/abs/2504.00509)] :large_blue_circle:
-66. **PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts**, arXiv:2504.18428 [[paper](https://arxiv.org/abs/2504.18428)] :large_blue_circle:
-67. **LLMs Are Not Intelligent Thinkers: Introducing Mathematical Topic Tree Benchmark for Comprehensive Evaluation of LLMs**, NAACL 2025 [[paper](https://aclanthology.org/2025.naacl-long.161/)] :large_blue_circle:
-68. **Who's the MVP? A Game-Theoretic Evaluation Benchmark for Modular Attribution in LLM Agents**, arXiv:2502.00510 [[paper](https://arxiv.org/abs/2502.00510)] :large_blue_circle:
-69. **MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations**, ICLR 2025 LLM Reason&Plan Workshop [[paper](https://openreview.net/forum?id=M8OLGgYK7e&referrer=%5Bthe%20profile%20of%20Xinyun%20Chen%5D%28%2Fprofile%3Fid%3D~Xinyun_Chen1%29)] :large_blue_circle:
-70. **Generative Verifiers: Reward Modeling as Next-Token Prediction**, ICLR 2025 [[paper](https://openreview.net/forum?id=Ccwp4tFEtE)] :large_blue_circle:
-71. **Breaking Mental Set to Improve Reasoning through Diverse Multi-Agent Debate**, ICLR 2025 [[paper](https://openreview.net/forum?id=t6QHYUOQL7)] :large_blue_circle:
-72. **SBSC: Step-By-Step Coding for Improving Mathematical Olympiad Performance**, ICLR 2025 [[paper](https://openreview.net/forum?id=wSkvf2WyYz)] :large_blue_circle:
-73. **Curriculum Demonstration Selection for In-Context Learning**, SAC 2025 [[paper](https://dl.acm.org/doi/abs/10.1145/3672608.3707810)] :large_blue_circle:
-74. **GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning**, arXiv:2504.02546 [[paper](https://arxiv.org/abs/2504.02546)]
-75. **Reinforcement Learning for Reasoning in Large Language Models with One Training Example**, arXiv:2504.20571 [[paper](https://arxiv.org/abs/2504.20571)] :large_blue_circle:
-76. **Why Vision Language Models Struggle with Visual Arithmetic? Towards Enhanced Chart and Geometry Understanding**, Findings of ACL 2025 [[paper](https://arxiv.org/abs/2502.11492)]
-77. **MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification**, arXiv:2502.13383 [[paper](https://arxiv.org/abs/2502.13383)] :large_blue_circle:
-78. **Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning**, arXiv:2504.09772 [[paper](https://arxiv.org/abs/2504.09772)] :large_blue_circle:
-79. **Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT?**, arXiv:2504.11741 [[paper](https://arxiv.org/abs/2504.11741)] :large_blue_circle:
-80. **Key-Point-Driven Data Synthesis with Its Enhancement on Mathematical Reasoning**, AAAI 2025 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34593)] :large_blue_circle:
-81. **A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges**, Findings of ACL 2025 [[paper](https://arxiv.org/abs/2412.11936)] :large_blue_circle:
-82. **Decoding Math: A Review of Datasets Shaping AI-Driven Mathematical Reasoning**, JIM 2025 [[paper](https://www.tarupublications.com/doi/10.47974/JIM-2105)] :large_blue_circle:
-83. **Visual Large Language Models for Generalized and Specialized Application**, arXiv:2501.02765 [[paper](https://arxiv.org/abs/2501.02765)] :large_blue_circle:
-84. **From System 1 to System 2: A Survey of Reasoning Large Language Models**, arXiv:2502.17419 [[paper](https://arxiv.org/abs/2502.17419)] :large_blue_circle:
-85. **Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents**, arXiv:2503.24047 [[paper](https://arxiv.org/abs/2503.24047)] :large_blue_circle:
-86. **Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey**, arXiv:2505.14340 [[paper](https://arxiv.org/abs/2505.14340)]
-87. **Towards Geometry Problem Solving in the Large Model Era: A Survey**, arXiv:2506.02690 [[paper](https://arxiv.org/abs/2506.02690)]
+2. **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model**, ICLR 2025 [[paper](https://openreview.net/forum?id=px1674Wp3C&noteId=H99kD23um8)]
+3. **MAVIS: Mathematical Visual Instruction Tuning with an Automatic Data Engine**, ICLR 2025 [[paper](https://openreview.net/forum?id=MnJzJ2gvuf)]
+4. **DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models**, ICLR 2025 [[paper](https://openreview.net/forum?id=VOAMTA8jKu)] :large_blue_circle:
+5. **Do Large Language Models Truly Understand Geometric Structures?**, ICLR 2025 [[paper](https://openreview.net/forum?id=FjQOXenaXK)]
+6. **GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-Training**, ICLR 2025 [[paper](https://openreview.net/forum?id=6RiBl5sCDF)]
+7. **Diagram Formalization Enhanced Multi-Modal Geometry Problem Solver**, ICASSP 2025 [[paper](https://ieeexplore.ieee.org/abstract/document/10889286/)]
+8. **A Knowledge and Semantic Fusion Method for Automatic Geometry Problem Understanding**, Appl. Sci. 2025 [[paper](https://www.mdpi.com/2076-3417/15/7/3857)]
+9. **ElementaryCQT: A New Dataset and Its Deep Learning Analysis for 2D Geometric Shape Recognition**, SN Comput. Sci. 2025 [[paper](https://link.springer.com/article/10.1007/s42979-024-03521-w)]
+10. **Exploration of Formalization Techniques for Geometric Entities in Planar Geometry Proposition Texts**, JAIP 2025 [[paper](https://www.clausiuspress.com/assets/default/article/2025/02/27/article_1740641608.pdf)]
+11. **FGeo-Parser: Autoformalization and Solution of Plane Geometric Problems**, Symmetry 2025 [[paper](https://www.mdpi.com/2073-8994/17/1/8)]
+12. **GeoDANO: Geometric VLM with Domain Agnostic Vision Encoder**, arXiv:2502.11360 [[paper](https://arxiv.org/abs/2502.11360)]
+13. **Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning**, AAAI 2025 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34815)] :large_blue_circle:
+14. **Multimodal Large Language Models for High School Mathematical Reasoning: Impact of Input Modality and Artifacts**, Authorea Preprints 2025 [[paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174197904.42332272)] :large_blue_circle:
+15. **URSA: Understanding and Verifying Chain-of-Thought Reasoning in Multimodal Mathematics**, arXiv:2501.04686 [[paper](https://arxiv.org/abs/2501.04686)] :large_blue_circle:
+16. **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**, arXiv:2503.06749 [[paper](https://arxiv.org/abs/2503.06749)] :large_blue_circle:
+17. **VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM**, PMLR 2025 [[paper](https://proceedings.mlr.press/v264/lee25b)]
+18. **LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**, arXiv:2503.07536 [[paper](https://arxiv.org/abs/2503.07536)]
+19. **VisualPRM: An Effective Process Reward Model for Multimodal Reasoning**, arXiv:2503.10291 [[paper](https://arxiv.org/abs/2503.10291)] :large_blue_circle:
+20. **VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search**, arXiv:2503.10582 [[paper](https://arxiv.org/abs/2503.10582)] :large_blue_circle:
+21. **VisNumBench: Evaluating Number Sense of Multimodal Large Language Models**, arXiv:2503.14939 [[paper](https://arxiv.org/abs/2503.14939)] :large_blue_circle:
+22. **Interactive Sketchpad: A Multimodal Tutoring System for Collaborative, Visual Problem-Solving**, arXiv:2503.16434 [[paper](https://arxiv.org/abs/2503.16434)] :large_blue_circle:
+23. **OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**, arXiv:2503.17352 [[paper](https://arxiv.org/abs/2503.17352)] :large_blue_circle:
+24. **MathAgent: Leveraging a Mixture-of-Math-Agent Framework for Real-World Multimodal Mathematical Error Detection**, arXiv:2503.18132 [[paper](https://arxiv.org/abs/2503.18132)] :large_blue_circle:
+25. **Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**, arXiv:2503.20752 [[paper](https://arxiv.org/abs/2503.20752)] :large_blue_circle:
+26. **VILBENCH: A Suite for Vision-Language Process Reward Modeling**, arXiv:2503.20271 [[paper](https://arxiv.org/abs/2503.20271)] :large_blue_circle:
+27. **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**, arXiv:2504.07934 [[paper](https://arxiv.org/abs/2504.07934)] :large_blue_circle:
+28. **VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search**, arXiv:2504.09130 [[paper](https://arxiv.org/abs/2504.09130)]
+29. **GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs**, AAAI 2025 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34679)]
+30. **Enhancing the Geometric Problem-Solving Ability of Multimodal LLMs via Symbolic-Neural Integration**, arXiv:2504.12773 [[paper](https://arxiv.org/abs/2504.12773)]
+31. **GeoSense: Evaluating Identification and Application of Geometric Principles in Multimodal Reasoning**, arXiv:2504.12597 [[paper](https://arxiv.org/abs/2504.12597)]
+32. **CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models**, AAAI 2025 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34538)] :large_blue_circle:
+33. **Gold-medalist Performance in Solving Olympiad Geometry with AlphaGeometry2**, arXiv:2502.03544 [[paper](https://arxiv.org/abs/2502.03544)]
+34. **Feynman: Knowledge-Infused Diagramming Agent for Scaling Visual Reasoning Data**, openreview 2025 [[paper](https://openreview.net/forum?id=jNmsuEE4Gf)] :large_blue_circle:
+35. **GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions**, arXiv:2504.10146 [[paper](https://arxiv.org/pdf/2504.10146)]
+36. **MagicGeo: Training-Free Text-Guided Geometric Diagram Generation**, arXiv:2502.13855 [[paper](https://arxiv.org/abs/2502.13855)] :small_red_triangle:
+37. **MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams**, arXiv:2503.20745 [[paper](https://arxiv.org/abs/2503.20745)]
+38. **Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**, arXiv:2501.01904 [[paper](https://arxiv.org/abs/2501.01904)] :large_blue_circle:
+39. **Open Eyes, Then Reason: Fine-grained Visual Mathematical Understanding in MLLMs**, arXiv:2501.06430 [[paper](https://arxiv.org/abs/2501.06430)]
+40. **MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**, arXiv:2502.20808 [[paper](https://arxiv.org/abs/2502.20808)] :large_blue_circle:
+41. **Pi-GPS: Enhancing Geometry Problem Solving by Unleashing the Power of Diagrammatic Information**, arXiv:2503.05543 [[paper](https://arxiv.org/abs/2503.05543)]
+42. **MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems**, arXiv:2503.16549 [[paper](https://arxiv.org/abs/2503.16549)] :large_blue_circle:
+43. **RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?**, arXiv:2501.11284 [[paper](https://arxiv.org/abs/2501.11284)]
+44. **Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?**, arXiv:2503.06252 [[paper](https://arxiv.org/abs/2503.06252)] :large_blue_circle:
+45. **GeoCoder: Solving Geometry Problems by Generating Modular Code through Vision-Language Models**, Findings of NAACL 2025 [[paper](https://aclanthology.org/2025.findings-naacl.410.pdf)]
+46. **DrawEduMath: Evaluating Vision Language Models with Expert-Annotated Students’ Hand-Drawn Math Images**, NAACL 2025 [[paper](https://openreview.net/forum?id=0vQYvcinij)] :large_blue_circle:
+47. **Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency**, arXiv:2504.18589 [[paper](https://arxiv.org/abs/2504.18589)] :large_blue_circle:
+48. **CogCom: A Visual Language Model with Chain-of-Manipulations Reasoning**, ICLR 2025 [[paper](https://openreview.net/forum?id=Fg0eo2AkST)] :large_blue_circle:
+49. **CMMaTH: A Chinese Multi-modal Math Skill Evaluation Benchmark for Foundation Models**, COLING 2025 [[paper](https://aclanthology.org/2025.coling-main.184/)] :large_blue_circle:
+50. **Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking**, arXiv:2502.02339 [[paper](https://arxiv.org/abs/2502.02339)] :large_blue_circle:
+51. **Forgotten Polygons: Multimodal Large Language Models are Shape-Blind**, arXiv:2502.15969 [[paper](https://arxiv.org/abs/2502.15969)]
+52. **Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning**, arXiv:2503.07065 [[paper](https://arxiv.org/abs/2502.15969)] :large_blue_circle:
+53. **Boosting MLLM Reasoning with Text-Debiased Hint-GRPO**, arXiv:2503.23905 [[paper](https://arxiv.org/abs/2503.23905)]
+54. **PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search**, arXiv:2504.10222 [[paper](https://arxiv.org/abs/2504.10222)] :large_blue_circle:
+55. **SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models**, arXiv:2504.11468 [[paper](https://arxiv.org/abs/2504.11468)] :large_blue_circle:
+56. **NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**, arXiv:2504.13055 [[paper](https://arxiv.org/abs/2504.13055)] :large_blue_circle:
+57. **TrustGeoGen: Scalable and Formal-Verified Data Engine for Trustworthy Multi-modal Geometric Problem Solving**, arXiv:2504.15780 [[paper](https://arxiv.org/abs/2504.15780)]
+58. **On The Potential of Using Generative Artificial Intelligence for Geometry Educational Activities**, hal 2025 [[paper](https://hal.science/hal-05022472/)]
+59. **Omni-MATH: A Universal Olympiad Level Mathematic Benchmark for Large Language Models**, ICLR 2025 [[paper](https://openreview.net/forum?id=yaqPf0KAlN)] :large_blue_circle:
+60. **MathConstruct: Challenging LLM Reasoning with Constructive Proofs**, ICLR 2025 VerifAI Workshop [[paper](https://openreview.net/forum?id=nHW2tiGMrb)] :large_blue_circle:
+61. **TMATH: A Dataset for Evaluating Large Language Models in Generating Educational Hints for Math Word Problems**, COLING 2025 [[paper](https://aclanthology.org/2025.coling-main.340/)] :large_blue_circle:
+62. **MathClean: A Benchmark for Synthetic Mathematical Data Cleaning**, arXiv:2502.19508 [[paper](https://arxiv.org/abs/2502.19058)] :large_blue_circle:
+63. **Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models**, arXiv:2503.21380 [[paper](https://arxiv.org/abs/2503.21380)] :large_blue_circle:
+64. **Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?**, arXiv:2504.00509 [[paper](https://arxiv.org/abs/2504.00509)] :large_blue_circle:
+65. **PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts**, arXiv:2504.18428 [[paper](https://arxiv.org/abs/2504.18428)] :large_blue_circle:
+66. **LLMs Are Not Intelligent Thinkers: Introducing Mathematical Topic Tree Benchmark for Comprehensive Evaluation of LLMs**, NAACL 2025 [[paper](https://aclanthology.org/2025.naacl-long.161/)] :large_blue_circle:
+67. **Who's the MVP? A Game-Theoretic Evaluation Benchmark for Modular Attribution in LLM Agents**, arXiv:2502.00510 [[paper](https://arxiv.org/abs/2502.00510)] :large_blue_circle:
+68. **MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations**, ICLR 2025 LLM Reason&Plan Workshop [[paper](https://openreview.net/forum?id=M8OLGgYK7e&referrer=%5Bthe%20profile%20of%20Xinyun%20Chen%5D%28%2Fprofile%3Fid%3D~Xinyun_Chen1%29)] :large_blue_circle:
+69. **Generative Verifiers: Reward Modeling as Next-Token Prediction**, ICLR 2025 [[paper](https://openreview.net/forum?id=Ccwp4tFEtE)] :large_blue_circle:
+70. **Breaking Mental Set to Improve Reasoning through Diverse Multi-Agent Debate**, ICLR 2025 [[paper](https://openreview.net/forum?id=t6QHYUOQL7)] :large_blue_circle:
+71. **SBSC: Step-By-Step Coding for Improving Mathematical Olympiad Performance**, ICLR 2025 [[paper](https://openreview.net/forum?id=wSkvf2WyYz)] :large_blue_circle:
+72. **Curriculum Demonstration Selection for In-Context Learning**, SAC 2025 [[paper](https://dl.acm.org/doi/abs/10.1145/3672608.3707810)] :large_blue_circle:
+73. **GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning**, arXiv:2504.02546 [[paper](https://arxiv.org/abs/2504.02546)]
+74. **Reinforcement Learning for Reasoning in Large Language Models with One Training Example**, arXiv:2504.20571 [[paper](https://arxiv.org/abs/2504.20571)] :large_blue_circle:
+75. **Why Vision Language Models Struggle with Visual Arithmetic? Towards Enhanced Chart and Geometry Understanding**, Findings of ACL 2025 [[paper](https://arxiv.org/abs/2502.11492)]
+76. **MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification**, arXiv:2502.13383 [[paper](https://arxiv.org/abs/2502.13383)] :large_blue_circle:
+77. **Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning**, arXiv:2504.09772 [[paper](https://arxiv.org/abs/2504.09772)] :large_blue_circle:
+78. **Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT?**, arXiv:2504.11741 [[paper](https://arxiv.org/abs/2504.11741)] :large_blue_circle:
+79. **Key-Point-Driven Data Synthesis with Its Enhancement on Mathematical Reasoning**, AAAI 2025 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34593)] :large_blue_circle:
+80. **A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges**, Findings of ACL 2025 [[paper](https://arxiv.org/abs/2412.11936)] :large_blue_circle:
+81. **Decoding Math: A Review of Datasets Shaping AI-Driven Mathematical Reasoning**, JIM 2025 [[paper](https://www.tarupublications.com/doi/10.47974/JIM-2105)] :large_blue_circle:
+82. **Visual Large Language Models for Generalized and Specialized Application**, arXiv:2501.02765 [[paper](https://arxiv.org/abs/2501.02765)] :large_blue_circle:
+83. **From System 1 to System 2: A Survey of Reasoning Large Language Models**, arXiv:2502.17419 [[paper](https://arxiv.org/abs/2502.17419)] :large_blue_circle:
+84. **Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents**, arXiv:2503.24047 [[paper](https://arxiv.org/abs/2503.24047)] :large_blue_circle:
+85. **Plane Geometry Problem Solving with Multi-modal Reasoning: A Survey**, arXiv:2505.14340 [[paper](https://arxiv.org/abs/2505.14340)]
+86. **Towards Geometry Problem Solving in the Large Model Era: A Survey**, arXiv:2506.02690 [[paper](https://arxiv.org/abs/2506.02690)]
 
 ## Citation
 
